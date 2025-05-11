@@ -30,5 +30,5 @@ I believe in infrastructure that is:
 If you're building something worth defending, or want to learn how —  
 I’m always open for conversation, collaboration, or code.
 
-📬 [LinkedIn](#) *(add your link here)*  
+📬 Reach me via email: bleuocean-ops@proton.me
 📫 [GitHub](https://github.com/bleuocean)
