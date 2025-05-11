@@ -15,6 +15,15 @@ I believe in infrastructure that is:
 - 🔐 Secure where it must be  
 - 🧠 Intelligent where it can be  
 - ⚙️ Functional at all times
+- 📊 Transparent through real-time dashboards
+
+I don’t just log — I **show** what’s happening:
+- Who ran `sudo` and when  
+- Which users were added  
+- What files were changed  
+- What ports opened or closed  
+- What threats were detected, and how to respond
+
 
 ---
 
