@@ -2,8 +2,8 @@
 
 > *“I don’t wait for the future — I design it.”*
 
-I'm building secure, observable, and automated infrastructure that acts more like an evolving organism than a static setup.  
-From stealth logging servers and tunnel-aware monitoring, to CMS-agnostic threat sensors and adaptive dashboards — this is real-world DevSecOps for those without a CISO.
+I'm building a secure, observable, automated and self-healing infrastructure that acts more like an evolving organism than a static setup.  
+From stealth logging servers and tunnel-aware monitoring, to threat sensors and adaptive dashboards — this is real-world DevSecOps for those without a CISO.
 
 ---
 
