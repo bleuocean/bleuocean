@@ -3,7 +3,7 @@
 > *“I don’t wait for the future — I design it.”*
 
 I'm building a secure, observable, automated and self-healing infrastructure that acts more like an evolving organism than a static setup.  
-From stealth logging servers and tunnel-aware monitoring, to threat sensors and adaptive dashboards — this is real-world DevSecOps for those without a CISO.
+From stealth logging servers and tunnel-aware monitoring, to threat sensors and adaptive dashboards this is real-world DevSecOps for those without a CISO.
 
 ---
 
@@ -17,20 +17,19 @@ I believe in infrastructure that is:
 - ⚙️ Functional at all times
 - 📊 Transparent through real-time dashboards
 
-I don’t just log — I **show** what’s happening:
+I don’t just log , I **show** what’s happening:
 - Who ran `sudo` and when  
-- Which users were added  
+- Which users were added or deleted  
 - What files were changed  
 - What ports opened or closed  
-- What threats were detected, and how to respond
+- What threats were detected and how to respond
 
 
 ---
 
 ### 🔧 Projects
 
-- [Infrastructure Blueprint](https://github.com/bleuocean/infrastructure-blueprint)  
-  A complete, modular and hardened setup designed for small teams and serious developers.
+- A complete, modular and hardened setup designed for small teams and serious developers.
 
 ---
 
